@@ -1,4 +1,4 @@
-[![MasterHead](<iframe width="800" height="373" frameborder="0" scrolling="no" style="overflow-y:hidden;" src="https://create.piktochart.com/embed/0f841d5b8720-full-stack-web-developer"></iframe>)
+[![MasterHead](https://create.piktochart.com/embed/0f841d5b8720-full-stack-web-developer)]
 
 <h1 align="center">Hi 👋, I'm Wajdi Bouallegui</h1>
 <h3 align="center">A passionate full-stack developer from Tunisia.</h3>
