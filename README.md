@@ -1,5 +1,6 @@
 
-<img align="center" alt="coding" width="100%" src="https://media.geeksforgeeks.org/wp-content/uploads/20230814170347/FullStack-salar.png">
+
+
 
 <h1 align="center">Hi 👋, I'm Wajdi Bouallegui</h1>
 <h3 align="center">A passionate full-stack developer from Tunisia.</h3>
